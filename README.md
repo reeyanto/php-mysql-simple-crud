@@ -9,7 +9,8 @@ CREATE TABLE IF NOT EXISTS `mahasiswa` (
     `nim` VARCHAR(10) NOT NULL UNIQUE,
     `nama` VARCHAR(20) NOT NULL,
     `jk` ENUM('L', 'P') DEFAULT 'L',
-    `alamat` TEXT
+    `alamat` TEXT,
+    PRIMARY KEY(`id`)
 );
 
 ## Screenshots
