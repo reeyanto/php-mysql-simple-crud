@@ -31,7 +31,7 @@ switch($_SERVER['REQUEST_METHOD']) {
 
     // hapus data
     case 'DELETE':
-        $mhs->delete('112233');
+        $mhs->delete($_GET['nim']);
         break;
 
     default:
