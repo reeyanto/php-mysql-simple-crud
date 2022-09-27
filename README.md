@@ -17,7 +17,6 @@ CREATE TABLE IF NOT EXISTS `mahasiswa` (
 ### Tampil Semua Data
 <img width="1440" alt="Screen Shot 2022-09-26 at 20 49 15" src="https://user-images.githubusercontent.com/17137623/192293533-d903a8b2-5621-432a-951b-ea30d05c8f58.png">
 
-
 ### Tampil Satu Data
 <img width="1440" alt="Screen Shot 2022-09-26 at 20 50 08" src="https://user-images.githubusercontent.com/17137623/192293726-5d59c11b-882b-4d1f-9e28-2f1310675434.png">
 
@@ -26,3 +25,6 @@ CREATE TABLE IF NOT EXISTS `mahasiswa` (
 
 ### Hapus Data
 <img width="1440" alt="Screen Shot 2022-09-26 at 20 55 04" src="https://user-images.githubusercontent.com/17137623/192294817-a89a41ab-ad7e-4979-88ec-da4ab6ae46b6.png">
+
+### Simpan Data
+<img width="1280" alt="Screen Shot 2022-09-27 at 12 28 00" src="https://user-images.githubusercontent.com/17137623/192439723-6ee29c72-9a2c-4eb5-908e-b059e021b9f0.png">
